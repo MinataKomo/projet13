@@ -1,0 +1,30 @@
+body{
+    
+    background-color: aquamarine;
+
+}
+.a{
+    /* background-color: aqua; */
+    margin-left: 50px;
+    margin-right: 50px;
+}
+.car{
+    text-align: center;
+    font-size: 100px;
+}
+.k{
+    background-color:blue;
+    padding: 0;
+}
+
+/* MEDIA */
+@media screen and (max-width: 1100px){
+    .a{
+        width: 100%;
+    }
+}
+@media screen and (max-width: 760px){
+    .a{
+        width: 100%;
+    }
+}
